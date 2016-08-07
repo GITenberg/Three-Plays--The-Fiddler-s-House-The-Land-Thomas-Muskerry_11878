@@ -1,0 +1,27 @@
+_repo: Three-Plays--The-Fiddler-s-House-The-Land-Thomas-Muskerry_11878
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+description: Cover -- Contents.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish drama -- 20th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: "The Fiddler's House\r\nThe Land\r\nThomas Muskerry."
+title: 'Three Plays: The Fiddler''s House, The Land, Thomas Muskerry'
+url: http://www.gutenberg.org/ebooks/11878
