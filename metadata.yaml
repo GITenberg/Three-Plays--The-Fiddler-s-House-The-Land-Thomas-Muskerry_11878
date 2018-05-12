@@ -1,5 +1,8 @@
 _repo: Three-Plays--The-Fiddler-s-House-The-Land-Thomas-Muskerry_11878
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Colum, Padraic
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/893
     wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11878#Three-Plays--The-Fiddler-s-House-The-Land-Thomas-Muskerry
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
